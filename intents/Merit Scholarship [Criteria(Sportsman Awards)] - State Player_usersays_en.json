@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7ab08990-452c-4213-a5fb-528575737b69",
+    "data": [
+      {
+        "text": "State",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d04e2d9b-c930-4f80-b616-15065b12a255",
+    "data": [
+      {
+        "text": "State Player",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

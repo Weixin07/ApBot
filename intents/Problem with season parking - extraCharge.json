@@ -1,0 +1,39 @@
+{
+  "id": "efa19b19-29e3-4ff3-89fd-1d41b7b4e69f",
+  "parentId": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "rootParentId": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "name": "Problem with season parking - extraCharge",
+  "auto": true,
+  "contexts": [
+    "Problemwithseasonparking-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Problemwithseasonparking.Problemwithseasonparking-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Each zone has its own rate, and charges are not transferable. If the user leaves one zone and enters another, the previous balance is reset, and the charges are levied anew. So please only park at one zone at a time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

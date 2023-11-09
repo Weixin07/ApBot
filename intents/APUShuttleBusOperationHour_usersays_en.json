@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c3cf2c1d-67cc-46d2-9f70-7c0ac95113f0",
+    "data": [
+      {
+        "text": "Shuttle bus operation time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95a71003-427d-488d-96d6-7751272ad0a9",
+    "data": [
+      {
+        "text": "Shuttle Bus operation hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16b330a6-1e9f-4130-87dc-d79850a668bc",
+    "data": [
+      {
+        "text": "When does Shuttle Bus operate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28b54789-f658-43d0-b7d0-892d2da46667",
+    "data": [
+      {
+        "text": "When does APU Shuttle Bus operate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "291e2376-7d7a-4ef1-83f1-449fadfdda94",
+    "data": [
+      {
+        "text": "What is the operation hour of APU Shuttle Bus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

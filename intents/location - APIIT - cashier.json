@@ -1,0 +1,39 @@
+{
+  "id": "612a3cfb-0265-4c88-8b6a-ba22ea78ae86",
+  "parentId": "922564ec-0e60-4b90-a04e-8ae206b4d425",
+  "rootParentId": "cd44b0fb-205c-4274-bc02-b4f881505069",
+  "name": "location - APIIT - cashier",
+  "auto": true,
+  "contexts": [
+    "location-APIIT-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location.location-custom.location-APIIT-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Friday (10:00 AM To 1:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

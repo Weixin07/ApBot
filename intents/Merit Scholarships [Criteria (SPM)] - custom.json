@@ -1,0 +1,36 @@
+{
+  "id": "c87d31a9-e7a4-4a6c-8099-f0b782e909a9",
+  "parentId": "91ab01de-5b96-467a-98cf-ffe7e8aef364",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarships [Criteria (SPM)] - custom",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipsCriteriaSPM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipsCriteriaSPM-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

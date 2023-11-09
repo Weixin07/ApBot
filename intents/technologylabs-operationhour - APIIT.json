@@ -1,0 +1,39 @@
+{
+  "id": "011e4486-e4f8-4ffc-915b-ec878a7a4690",
+  "parentId": "f753bf1b-79f9-480d-abca-561bcd615e52",
+  "rootParentId": "f753bf1b-79f9-480d-abca-561bcd615e52",
+  "name": "technologylabs-operationhour - APIIT",
+  "auto": true,
+  "contexts": [
+    "technologylabs-operationhour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "technologylabs-operationhour.technologylabs-operationhour-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Friday (To 7:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

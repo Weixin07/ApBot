@@ -1,0 +1,93 @@
+[
+  {
+    "id": "9c48767c-fa10-4c6d-9709-2b4acdd222dd",
+    "data": [
+      {
+        "text": "empty classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75360aa2-987f-4a5e-a184-2d35ef0fb9e6",
+    "data": [
+      {
+        "text": "available classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7651a1c6-5801-4d44-a268-235aca9173c0",
+    "data": [
+      {
+        "text": "locate a classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d2bee1f-823f-45c0-8c3b-701debd5ffce",
+    "data": [
+      {
+        "text": "help me find a classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1eff2076-63de-40e5-a55c-827e7691165d",
+    "data": [
+      {
+        "text": "find a classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76135350-7b37-42ee-a894-1482ededef20",
+    "data": [
+      {
+        "text": "classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "297dca7b-b0c6-456f-bc9e-571d3f8f6ccb",
+    "data": [
+      {
+        "text": "classroom finder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

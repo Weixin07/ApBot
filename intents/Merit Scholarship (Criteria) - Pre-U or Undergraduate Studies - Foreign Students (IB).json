@@ -1,0 +1,46 @@
+{
+  "id": "6aca20ef-4b94-4e86-8a5b-5abc78195d9d",
+  "name": "Merit Scholarship (Criteria) - Pre-U or Undergraduate Studies - Foreign Students (IB)",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudent-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsIB-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is your score?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

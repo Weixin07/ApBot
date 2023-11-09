@@ -1,0 +1,39 @@
+{
+  "id": "4fc151e5-4658-41e2-bd90-b96823311ea9",
+  "parentId": "0289497f-464d-4557-b08c-7c1d12354036",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship [Criteria(O-Levels)] - 9 A\u0027s",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteriaO-Levels-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipCriteriaO-Levels-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 50% discount on tuition fee.\nMerit Awards are awarded on a yearly basis and are renewable upon meeting minimum CGPA 3.30 at the end of each academic year."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

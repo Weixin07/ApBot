@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b5f4641f-9069-4d51-9aa9-b821691adc25",
+    "data": [
+      {
+        "text": "Digital Ninja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0f579e1-df9c-438c-bed9-cd30cba20b3a",
+    "data": [
+      {
+        "text": "MDEC Digital Ninja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7abcc8b3-caf7-41f4-a99a-84734a124736",
+    "data": [
+      {
+        "text": "MDEC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26359bea-69a5-49c9-91a7-c7f4b120e221",
+    "data": [
+      {
+        "text": "MDEC Digital Ninja Rebates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "ad2a0d18-9cd3-471f-8cd9-c8ec940b45cf",
+  "parentId": "5924ec4d-9181-4069-a02a-2792770af717",
+  "rootParentId": "5924ec4d-9181-4069-a02a-2792770af717",
+  "name": "AskWhereToPark - difference",
+  "auto": true,
+  "contexts": [
+    "AskWhereToPark-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "AskWhereToPark.AskWhereToPark-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Zone A is under the roof parking while Zone B is open space parking. Zone B parking cost slightly lower than Zone A.",
+            "Zone A is covered parking while Zone B is open parking. The rate for Zone B costs slightly lesser than Zone A."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5e8acd8a-f8c6-4e82-9a14-e24cfa42c70b",
+    "data": [
+      {
+        "text": "computer labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e653d4b5-ccf8-4c50-9cdb-f428b0c088e0",
+    "data": [
+      {
+        "text": "computer lab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f93ed2a6-8fda-4ea9-ad9a-86097a6cde7a",
+    "data": [
+      {
+        "text": "technology lab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d595748c-e4ae-4ab4-9dcb-f3384a186388",
+    "data": [
+      {
+        "text": "labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bf12bbc-4e76-4187-badc-ef08d387765c",
+    "data": [
+      {
+        "text": "lab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e21ff71a-c70f-4554-ba7d-aacba01798f2",
+    "data": [
+      {
+        "text": "technology labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

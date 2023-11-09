@@ -1,0 +1,42 @@
+{
+  "id": "09ad4179-0cdd-4f34-8f60-ceb1a14ef401",
+  "name": "MeritScholarship(Criteria) - Pre-U or Undergraduate Studies - Foreign Students [A-Lvls(Not in List)]",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsA-Levels-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsA-Levels-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, there is no available scholarship."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

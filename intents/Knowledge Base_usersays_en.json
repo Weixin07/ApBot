@@ -1,0 +1,54 @@
+[
+  {
+    "id": "500a763c-b42e-493a-a654-9e207b27924d",
+    "data": [
+      {
+        "text": "Frequently Asked Questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cafff33d-19bb-466a-9bbf-c9bf4baa3601",
+    "data": [
+      {
+        "text": "Is there a FAQ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23c35ad5-83d8-4e2f-8dd8-dacc53593eaf",
+    "data": [
+      {
+        "text": "What do people usually ask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe358adf-78f2-4386-8524-d1f40d4a2780",
+    "data": [
+      {
+        "text": "I would like to know about what people usually asks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

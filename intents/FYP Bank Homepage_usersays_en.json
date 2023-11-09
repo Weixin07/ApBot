@@ -1,0 +1,28 @@
+[
+  {
+    "id": "bfc5c9dd-5b85-40b6-b265-290b4eb3054e",
+    "data": [
+      {
+        "text": "FYP bank?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5944fe29-e804-4961-8a5d-0729604152fb",
+    "data": [
+      {
+        "text": "what is FYP Bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

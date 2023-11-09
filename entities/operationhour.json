@@ -1,0 +1,9 @@
+{
+  "id": "40e47c34-bb98-448c-903c-2b78a9193244",
+  "name": "operationhour",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

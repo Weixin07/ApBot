@@ -1,0 +1,54 @@
+{
+  "id": "256c7f5e-1e3a-441e-b0b6-1ef56a194380",
+  "parentId": "7ac1e47b-0f76-4b44-8099-04e7bb31ea78",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship (Criteria) - Postgraduate Studies - \u003e\u003d 3.2",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-PostgraduateStudies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipCriteria-PostgraduateStudies-custom-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0194b3bf-50e6-40d1-93f9-10d8a059bd8c",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 10% discount on tuition fee."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

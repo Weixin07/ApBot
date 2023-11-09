@@ -1,0 +1,44 @@
+{
+  "id": "629b7a51-495a-4334-bedd-4b01e9022769",
+  "name": "ParkingRate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ParkingRate-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Which zone do you want to know about the fee? Zone A or Zone B?",
+            "Zone A or Zone B? Please state so I can tell you the precise charges.",
+            "Which zone? Zone A or Zone B?",
+            "Can you state out the zone?",
+            "Which zone do you want to know about?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

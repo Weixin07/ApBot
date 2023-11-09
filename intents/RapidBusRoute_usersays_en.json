@@ -1,0 +1,41 @@
+[
+  {
+    "id": "692b4ae0-b771-4a30-9de9-30dbb74d800b",
+    "data": [
+      {
+        "text": "what is the route of rapid bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24eff39c-e0bd-46fb-9938-c9120896cd58",
+    "data": [
+      {
+        "text": "Rapid Bus Route",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82d1b7b8-e366-479c-9382-d6ab2e8439df",
+    "data": [
+      {
+        "text": "I want to know the Rapid Bus Route.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

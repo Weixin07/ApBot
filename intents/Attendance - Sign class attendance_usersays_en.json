@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c1a7bc15-0020-4d84-a003-70815a38ed81",
+    "data": [
+      {
+        "text": "Sign my class attendance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3acdbfb3-3740-44e7-94a0-c3a059f092a0",
+    "data": [
+      {
+        "text": "Sign class attendance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

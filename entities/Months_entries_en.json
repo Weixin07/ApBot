@@ -1,0 +1,82 @@
+[
+  {
+    "value": "January",
+    "synonyms": [
+      "January",
+      "Jan"
+    ]
+  },
+  {
+    "value": "February",
+    "synonyms": [
+      "February",
+      "Feb"
+    ]
+  },
+  {
+    "value": "March",
+    "synonyms": [
+      "March"
+    ]
+  },
+  {
+    "value": "April",
+    "synonyms": [
+      "April"
+    ]
+  },
+  {
+    "value": "May",
+    "synonyms": [
+      "May"
+    ]
+  },
+  {
+    "value": "June",
+    "synonyms": [
+      "June",
+      "Jun"
+    ]
+  },
+  {
+    "value": "July",
+    "synonyms": [
+      "July"
+    ]
+  },
+  {
+    "value": "August",
+    "synonyms": [
+      "August",
+      "Aug"
+    ]
+  },
+  {
+    "value": "September",
+    "synonyms": [
+      "September",
+      "Sep"
+    ]
+  },
+  {
+    "value": "October",
+    "synonyms": [
+      "October",
+      "Oct"
+    ]
+  },
+  {
+    "value": "November",
+    "synonyms": [
+      "November",
+      "Nov"
+    ]
+  },
+  {
+    "value": "December",
+    "synonyms": [
+      "December",
+      "Dec"
+    ]
+  }
+]

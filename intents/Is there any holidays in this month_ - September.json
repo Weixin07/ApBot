@@ -1,0 +1,40 @@
+{
+  "id": "161e1de7-4379-4957-8ddb-4f48d0b4461e",
+  "parentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "rootParentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "name": "Is there any holidays in this month? - September",
+  "auto": true,
+  "contexts": [
+    "Isthereanyholidaysinthismonth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Isthereanyholidaysinthismonth.Isthereanyholidaysinthismonth-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Malaysia Day on 16th of Sep."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

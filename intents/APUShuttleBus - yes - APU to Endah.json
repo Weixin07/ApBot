@@ -1,0 +1,39 @@
+{
+  "id": "db24c79d-2e9b-4c51-a051-b152938e6a93",
+  "parentId": "62aeb6ff-1054-4856-9005-02b1475992d2",
+  "rootParentId": "2af95d04-f797-492d-af64-e844506c2184",
+  "name": "APUShuttleBus - yes - APU to Endah",
+  "auto": true,
+  "contexts": [
+    "APUShuttleBus-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "APUShuttleBus.APUShuttleBus-yes.APUShuttleBus-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The available time for APU to Endah Promenade is: 11:25, 13:05, 14:55, 16:10, 17:15, 18:15, 19:15"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

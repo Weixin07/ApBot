@@ -1,0 +1,39 @@
+{
+  "id": "d526870c-f1e8-45b1-833f-283487d3064a",
+  "parentId": "812f3123-f47d-4da1-8827-61537b5d7952",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship [Criteria(UEC)] - 13 to 18 Points",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteriaUEC-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipCriteriaUEC-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 35% discount on tuition fee.\nMerit Awards are awarded on a yearly basis and are renewable upon meeting minimum CGPA 3.00 at the end of each academic year."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

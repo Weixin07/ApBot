@@ -1,0 +1,54 @@
+[
+  {
+    "id": "55b03cb6-bcc8-4eb1-b2b0-634e6500223a",
+    "data": [
+      {
+        "text": "Parking charges",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f8d8ebb-30f5-4902-97f6-d58c691bd339",
+    "data": [
+      {
+        "text": "Parking fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a499ccdb-5b6c-40b1-ad1b-cefcb07e45f6",
+    "data": [
+      {
+        "text": "Parking rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1063cf8-817b-427b-bb19-c2ed3a8a8a25",
+    "data": [
+      {
+        "text": "What is the parking rate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

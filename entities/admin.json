@@ -1,0 +1,9 @@
+{
+  "id": "7fe7c70f-84b4-4996-accd-584450cb9e92",
+  "name": "admin",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "04c0b66b-eb49-43db-b3be-de144a2aed76",
+  "name": "When are holidays in this year?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "New Year’s Day on 1st of Jan.\n\nAdditional Holidays (University will be closed) on 4th of Jan to 5th of Jan.\n\nThaipusam on 28th of Jan.\n\nAdditional Holiday (University will be closed) on 29th of Jan.\n\nFederal Territory Day on 1st of Feb.\n\nAdditional Holiday (University will be closed) on 11th of Feb.\n\nChinese New Year on 12th of Feb to 13 of Feb.\n\nNuzul Al- Quran on 29th of Apr.\n\nLabour Day on 1st of May.\n\nAdditional Holiday (University will be closed) on 12th of May.\n\nHari Raya Puasa - Subject to change (Any changes by the Authorities may alter the Public Holidays) on 13th of May to 14th of May.\n\nWesak Day on 26th of May.\n\nBirthday of S.P.B. Yang di-Pertuan Agong on 7th of Jun.\n\nHari Raya Qurban - Subject to change (Any changes by the Authorities may alter the Public Holidays) on 20th of July.\n\nAwal Muharram (Maal Hijrah) on 10th of Aug.\n\nNational Day on 31st of Aug.\n\nMalaysia Day on 16th of Sep.\n\nBirthday of Prophet Muhammad S.A.W (Maulidur Rasul) on 19th of Oct.\n\nDeepavali - Subject to change (Any changes by the Authorities may alter the Public Holidays) on 4th of Nov.\n\nAdditional Holiday (University will be closed) on 5th of Nov.\n\nYear End Break on 24th of Dec to 9th of Jan.\n\nChristmas Day on 25th of Dec."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "397819c3-4e1e-47c2-bc2c-0969144b9612",
+  "name": "APUShuttleBusTimetable",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "APU Shuttle Bus timetable can be accessed by the link below:\nhttp://www.apu.edu.my/sites/default/files/apu_shuttle_services_2021_version_1_1_march_2021.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

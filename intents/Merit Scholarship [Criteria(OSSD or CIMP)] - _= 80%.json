@@ -1,0 +1,39 @@
+{
+  "id": "50d3c1e6-271d-43a7-a391-80d989249cc0",
+  "parentId": "ef2eb0ee-5536-48cf-a12b-ab206bae2265",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship [Criteria(OSSD or CIMP)] - \u003e\u003d 80%",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteriaOSSDorCIMP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom-5.MeritScholarshipCriteriaOSSDorCIMP-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 20% discount on tuition fee.\nMerit Awards are awarded on a yearly basis and are renewable upon meeting minimum CGPA 2.60 at the end of each academic year."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

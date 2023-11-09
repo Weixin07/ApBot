@@ -1,0 +1,78 @@
+[
+  {
+    "id": "0a9ce925-c008-438a-a564-d03c440aa17f",
+    "data": [
+      {
+        "text": "\"3.2 and Above\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78619a68-b590-4a20-897c-67568454fc85",
+    "data": [
+      {
+        "text": "\"3.2 \u0026 Above\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b29ff36-08f7-4939-be8f-4a3cfaca5066",
+    "data": [
+      {
+        "text": "3.2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " and Above",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be7b880a-455c-4b0c-8f9f-cd56410c084a",
+    "data": [
+      {
+        "text": "3.2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " \u0026 Above",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c9fd250-9421-468e-bbbf-4a5c6f873aa7",
+    "data": [
+      {
+        "text": "3.2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

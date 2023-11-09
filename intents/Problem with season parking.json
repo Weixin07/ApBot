@@ -1,0 +1,40 @@
+{
+  "id": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "name": "Problem with season parking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Problemwithseasonparking-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What can I help with?\n- Want to subscribe to season parking?\n- Subscription expire?\n- Want to stop subscription?\n- \"Invalid Status\"?\n- \"Please top up\"?\n- Get charged more then RM5 when parked in both zone?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

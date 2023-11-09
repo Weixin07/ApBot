@@ -1,0 +1,52 @@
+[
+  {
+    "id": "0fab8440-247f-485a-bfee-5d34d12b0b8c",
+    "data": [
+      {
+        "text": "operation hour",
+        "meta": "@operationhour",
+        "alias": "operationhour",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "585e8a25-28a4-4b2f-b685-1299fb73e16b",
+    "data": [
+      {
+        "text": "technology labs",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "operation hour",
+        "meta": "@operationhour",
+        "alias": "operationhour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

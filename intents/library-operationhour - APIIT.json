@@ -1,0 +1,39 @@
+{
+  "id": "d477b504-1c76-43fb-b2ce-8bd2788a9555",
+  "parentId": "32c03408-ef26-4701-becc-a0f4fc489781",
+  "rootParentId": "32c03408-ef26-4701-becc-a0f4fc489781",
+  "name": "library-operationhour - APIIT",
+  "auto": true,
+  "contexts": [
+    "library-operationhour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "library-operationhour.library-operationhour-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Friday (8:30 AM To 6:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

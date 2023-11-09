@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3c3bea65-addd-4545-9e98-bbd64152aa32",
+    "data": [
+      {
+        "text": "International Baccalaureate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e18b9400-590a-4f13-a1ca-6981e7c306e3",
+    "data": [
+      {
+        "text": "IB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

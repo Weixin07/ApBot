@@ -1,0 +1,57 @@
+{
+  "id": "1fec1efb-e4be-4381-90a6-0317a5ca71c0",
+  "name": "Merit Scholarship (Criteria) - Pre-U or Undergraduate Studies - Foreign Students [(\u003c26Points)]",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsIB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsIB-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "add25c90-ef15-4503-ba7b-178c75db542b",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, there is no available scholarship."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

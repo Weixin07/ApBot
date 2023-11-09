@@ -1,0 +1,46 @@
+{
+  "id": "b5ad0466-83a0-47af-bf09-78c64b62e6f9",
+  "name": "Merit Scholarship (Criteria) - Pre-U or Undergraduate Studies - Foreign Students (O-Levels)",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsO-Levels-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudent-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How many A\u0027s did you get or is expecting to get?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "12285a02-3111-4ab5-b8d7-868071773972",
+    "data": [
+      {
+        "text": "Any new breakthroughs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e10b54e5-99f3-4641-aad6-121aba0dfdb7",
+    "data": [
+      {
+        "text": "E-Journals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21e1188f-07fc-4057-840a-588c47caaf72",
+    "data": [
+      {
+        "text": "Newsletter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

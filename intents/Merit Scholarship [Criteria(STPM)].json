@@ -1,0 +1,46 @@
+{
+  "id": "85a43958-e37e-43b6-85b0-59d81d814c6c",
+  "name": "Merit Scholarship [Criteria(STPM)]",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-Malaysian-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteriaSTPM-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-Malaysian-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is your grade point in 3 subjects? [Please answer 3.7 and above, 3.4, 3.0 or \"Not in List\"]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

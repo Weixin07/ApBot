@@ -1,0 +1,55 @@
+{
+  "id": "32c03408-ef26-4701-becc-a0f4fc489781",
+  "name": "library-operationhour",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "library-operationhour-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "17866ff7-7dff-435b-89af-dec3535172b0",
+          "name": "operationhour",
+          "required": false,
+          "dataType": "@operationhour",
+          "value": "$operationhour",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please select your dedicated location. [APU or APIIT]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "e7c24d34-e2bf-4157-bcca-4064fa3918a0",
+  "parentId": "cd44b0fb-205c-4274-bc02-b4f881505069",
+  "rootParentId": "cd44b0fb-205c-4274-bc02-b4f881505069",
+  "name": "location - APU",
+  "auto": true,
+  "contexts": [
+    "location-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location.location-custom",
+      "affectedContexts": [
+        {
+          "name": "location-APU-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Got it! Each department\u0027s operation hours vary. Which department do you refer to?\n\nWe have :\n- Admin\n- Immigration\n- Cashier\n- Clinic\n- Student Service\n- Accommodation\n- Library\n- Technology Labs\n- Printshop @APU"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cf22196d-d5cc-4844-a07d-b4b79e02abc0",
+  "parentId": "9bed9b4c-4c20-4030-b65f-6fca8aa9cf1c",
+  "rootParentId": "9bed9b4c-4c20-4030-b65f-6fca8aa9cf1c",
+  "name": "academicoperation - custom",
+  "auto": true,
+  "contexts": [
+    "academicoperation-APiXERP-followup",
+    "academicoperation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "academicoperation.academicoperation-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To view more about Graduation Verification Service, please go to the following link : https://apspace.apu.edu.my/graduate-verification-service"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

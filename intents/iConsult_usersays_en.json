@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b9e1a204-384d-4b22-97f4-a9ee63a730d7",
+    "data": [
+      {
+        "text": "I need to consult someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0633f14-ca0d-4639-b009-51eff94e1963",
+    "data": [
+      {
+        "text": "iconsult",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4254291a-ccf0-44b2-876c-906970a38673",
+    "data": [
+      {
+        "text": "Who can I make an appointment with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e881ed07-75f5-4961-9a23-d05689b7108f",
+    "data": [
+      {
+        "text": "How to make an appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e492ed5-22f4-44ca-ab3c-5afacc09cd0c",
+    "data": [
+      {
+        "text": "Do I have appointments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37722f02-cadd-4dbd-8b0a-f639604a2b12",
+    "data": [
+      {
+        "text": "How to check my appointments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

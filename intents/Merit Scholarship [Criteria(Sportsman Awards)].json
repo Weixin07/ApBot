@@ -1,0 +1,46 @@
+{
+  "id": "5cd6c72e-5247-444b-9998-5e98c28a6862",
+  "name": "Merit Scholarship [Criteria(Sportsman Awards)]",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-Malaysian-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteriaSportsmanAwards-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-Malaysian-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Are you a national player or a state player?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

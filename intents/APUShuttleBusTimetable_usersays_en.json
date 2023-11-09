@@ -1,0 +1,41 @@
+[
+  {
+    "id": "8308adec-b5c8-494f-80ee-0733ff7d6bdf",
+    "data": [
+      {
+        "text": "I want to know when does the APU Shuttle Bus start off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3696bc8-cffc-4eea-8fdd-0fb10b370148",
+    "data": [
+      {
+        "text": "APU Shuttle Bus timetable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b12446f1-e8ca-43c0-8dd1-006972853c40",
+    "data": [
+      {
+        "text": "What is the timetable of APU Shuttle Bus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "0e87f625-a8de-43bd-80c4-a8bde44a23d4",
+    "data": [
+      {
+        "text": "Expired season pass",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e6acc81-e9fb-4eed-9b42-3ecf86feceee",
+    "data": [
+      {
+        "text": "Season pass expire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

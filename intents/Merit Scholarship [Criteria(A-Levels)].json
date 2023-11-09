@@ -1,0 +1,46 @@
+{
+  "id": "6af58811-c78e-47b9-9b27-04ecf734424f",
+  "name": "Merit Scholarship [Criteria(A-Levels)]",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-Malaysian-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteriaA-Levels-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-Malaysian-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is your result? [Please input only AAA, AAB, ABB, AAC, BBB or \"Not In List\"]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

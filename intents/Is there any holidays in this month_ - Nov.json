@@ -1,0 +1,40 @@
+{
+  "id": "fc74eba5-10fc-456f-922f-24e11530c9bd",
+  "parentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "rootParentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "name": "Is there any holidays in this month? - Nov",
+  "auto": true,
+  "contexts": [
+    "Isthereanyholidaysinthismonth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Isthereanyholidaysinthismonth.Isthereanyholidaysinthismonth-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Deepavali - Subject to change (Any changes by the Authorities may alter the Public Holidays) on 4th of Nov"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

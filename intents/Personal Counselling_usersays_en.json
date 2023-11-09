@@ -1,0 +1,28 @@
+[
+  {
+    "id": "00641392-4cbf-45ab-b3d3-926d05786777",
+    "data": [
+      {
+        "text": "I need counsel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5fa5d0c-cdde-45a1-a9e4-1155235672f6",
+    "data": [
+      {
+        "text": "Personal counselling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

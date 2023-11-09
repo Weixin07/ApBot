@@ -1,0 +1,132 @@
+[
+  {
+    "id": "bee1a3b4-1ce7-4755-a737-0a2eebb4c2d4",
+    "data": [
+      {
+        "text": "When is my due date for my payments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61914518-6faa-4173-9754-1fe5f147c7a7",
+    "data": [
+      {
+        "text": "Do I have any fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d061e34a-18bb-4403-a1f8-12ccaeee4f1e",
+    "data": [
+      {
+        "text": "What\u0027s my outstanding payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91d52687-bfbe-4107-a0a1-aa7e9491a498",
+    "data": [
+      {
+        "text": "How much have I paid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d54b7544-2a90-4071-978e-e0626fc5c1b2",
+    "data": [
+      {
+        "text": "What\u0027s my total fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a82e2144-aafe-47a0-b976-4dfe90fb0679",
+    "data": [
+      {
+        "text": "How to check for my remaining tuition fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a4bab37-6f49-4199-8179-a394b9ba201e",
+    "data": [
+      {
+        "text": "What\u0027s my semester fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1467229d-2ea8-4a5b-9477-5166fc87089a",
+    "data": [
+      {
+        "text": "How to check for my payable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e17fe58-01e1-42f7-bace-1ccbdbdeeaf4",
+    "data": [
+      {
+        "text": "How to check my overdue payments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2279fa6b-5cfe-4757-9725-12507105a169",
+    "data": [
+      {
+        "text": "What is my outstanding payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

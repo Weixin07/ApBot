@@ -1,0 +1,39 @@
+{
+  "id": "3c9afc55-624a-4ff1-9db5-4bc4fcd86d66",
+  "parentId": "32c03408-ef26-4701-becc-a0f4fc489781",
+  "rootParentId": "32c03408-ef26-4701-becc-a0f4fc489781",
+  "name": "library-operationhour - APU",
+  "auto": true,
+  "contexts": [
+    "library-operationhour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "library-operationhour.library-operationhour-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Friday (8:30 AM To 8:00 PM)\n.\nSaturday (9:00 AM To 1:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

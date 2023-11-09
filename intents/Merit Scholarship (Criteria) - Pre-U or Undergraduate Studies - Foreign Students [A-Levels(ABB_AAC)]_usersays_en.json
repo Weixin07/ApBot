@@ -1,0 +1,28 @@
+[
+  {
+    "id": "5a993144-6a17-4f5e-95d8-82085fed5284",
+    "data": [
+      {
+        "text": "AAC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b526bde-dbf4-4c7a-af09-d094e6fd69a0",
+    "data": [
+      {
+        "text": "ABB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

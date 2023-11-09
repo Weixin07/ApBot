@@ -1,0 +1,39 @@
+{
+  "id": "cf569c2c-1c31-4fc0-9ad4-ebb8ad15ac7e",
+  "parentId": "922564ec-0e60-4b90-a04e-8ae206b4d425",
+  "rootParentId": "cd44b0fb-205c-4274-bc02-b4f881505069",
+  "name": "location - APIIT - technologylabs",
+  "auto": true,
+  "contexts": [
+    "location-APIIT-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location.location-custom.location-APIIT-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Friday (To 7:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

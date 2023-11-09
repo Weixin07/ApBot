@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4784d846-c0a5-4d92-9c90-4fbe2219ee68",
+    "data": [
+      {
+        "text": "What is corporate training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1256e03a-e305-445f-822d-606834319173",
+    "data": [
+      {
+        "text": "Corporate Training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

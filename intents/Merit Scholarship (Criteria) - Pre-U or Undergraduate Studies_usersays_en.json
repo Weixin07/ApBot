@@ -1,0 +1,67 @@
+[
+  {
+    "id": "220e1c86-fe48-4f1a-9663-d0dae690d514",
+    "data": [
+      {
+        "text": "Degree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5fe119f-1ccb-4bcd-a746-3f56e64ac953",
+    "data": [
+      {
+        "text": "Certification",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8bbc731-dd2c-4432-bbfe-140b75672194",
+    "data": [
+      {
+        "text": "Certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35df9247-2c6f-4e7e-8489-f695bdf397a7",
+    "data": [
+      {
+        "text": "Foundation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fda5bd90-ef9a-4f5a-bbf9-0835f3397b9c",
+    "data": [
+      {
+        "text": "Diploma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

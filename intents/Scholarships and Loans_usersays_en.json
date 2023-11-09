@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c13b9e9b-53e3-40f1-adaf-d01559b4b29b",
+    "data": [
+      {
+        "text": "Financial Trouble",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d06a1912-8fdd-4964-baf7-d36c5a8bf9b4",
+    "data": [
+      {
+        "text": "Financial Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbcb158a-a644-4500-bf88-961666e6eb46",
+    "data": [
+      {
+        "text": "Financial Aid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83eaad8c-9914-4f88-bf1b-9598f0c9ebf8",
+    "data": [
+      {
+        "text": "Scholarships and Loans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c527966a-746a-4052-8e27-f42160b39a0e",
+    "data": [
+      {
+        "text": "Is there any loans or scholarships that I can take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a3a1c6d-9d55-4e21-8286-c9a579ad9e2b",
+    "data": [
+      {
+        "text": "I need financial help. What can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

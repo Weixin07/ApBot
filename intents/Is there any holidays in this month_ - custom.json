@@ -1,0 +1,50 @@
+{
+  "id": "ba1e374b-b263-4a10-90a6-4ee96e17c1f1",
+  "parentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "rootParentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "name": "Is there any holidays in this month? - custom",
+  "auto": true,
+  "contexts": [
+    "Isthereanyholidaysinthismonth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Isthereanyholidaysinthismonth.Isthereanyholidaysinthismonth-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "New Year’s Day on 1st of Jan"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thaipusam on 28th of Jan"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

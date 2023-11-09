@@ -1,0 +1,39 @@
+{
+  "id": "ef048968-d69a-4ab4-9cb1-b37ade2dcc83",
+  "parentId": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "rootParentId": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "name": "Problem with season parking - StopSeasonPass",
+  "auto": true,
+  "contexts": [
+    "Problemwithseasonparking-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Problemwithseasonparking.Problemwithseasonparking-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You are required to renew or cancel your Season Parking at least ONE (1) day before the expiry date. Failure to do so will result in denial of entry at all parking areas in APU including the Covered Parking – Zone A"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "fb99132a-e325-4ea0-9ad9-5d8fae105742",
+    "data": [
+      {
+        "text": "Classroom for meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35644196-7189-4244-8b48-a1633308ca6e",
+    "data": [
+      {
+        "text": "i want a classroom for meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "244ddd0f-f9d0-4380-a013-37200efb5ad0",
+    "data": [
+      {
+        "text": "empty classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96d1bf34-76d4-49c2-8bc3-dfd6a78fb978",
+    "data": [
+      {
+        "text": "I want empty classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "933a34f1-7fbb-434b-9772-1e39c7df7906",
+    "data": [
+      {
+        "text": "Is there available classroom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "583cf38b-6924-42df-9566-6349167d9688",
+    "data": [
+      {
+        "text": "I want to see available classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

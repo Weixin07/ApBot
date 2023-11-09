@@ -1,0 +1,39 @@
+{
+  "id": "d846784e-51dd-4138-a18e-8a1883af2d4d",
+  "parentId": "bad59c26-bd99-4d3a-8f34-4a31a7183dd4",
+  "rootParentId": "bad59c26-bd99-4d3a-8f34-4a31a7183dd4",
+  "name": "others - logout",
+  "auto": true,
+  "contexts": [
+    "others-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "others.others-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here you go! Please go to the following link : https://apspace.apu.edu.my/logout"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

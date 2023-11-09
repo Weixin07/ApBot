@@ -1,0 +1,42 @@
+{
+  "id": "3de577bd-f14f-4e10-a4b7-f756f21313e3",
+  "name": "Merit Scholarship (Criteria) - Pre-U or Undergraduate Studies - Foreign Students [IB(26~30Points)]",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsIB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsIB-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 10% discount on tuition fee.\nAll applicants must maintain the CGPA of 3.0 in order to enjoy the Fee Awards in the subsequent years (where relevant). Failure to meet such academic requirement will result in the award terminated/ suspended."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

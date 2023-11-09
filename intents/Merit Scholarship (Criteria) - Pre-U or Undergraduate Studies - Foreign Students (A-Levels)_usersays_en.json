@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7d44c07b-1098-42f7-8fa1-0b3b194132b9",
+    "data": [
+      {
+        "text": "A Levels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e7bece8-97e7-474a-a8f0-2871b8dd2f0f",
+    "data": [
+      {
+        "text": "ALevels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c77997bf-167f-4915-bfb2-089dfde481a8",
+    "data": [
+      {
+        "text": "A-Levels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

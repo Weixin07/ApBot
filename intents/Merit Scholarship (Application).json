@@ -1,0 +1,50 @@
+{
+  "id": "1be102d8-71c3-407b-92c0-410585d7e852",
+  "name": "Merit Scholarship (Application)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7ef663cf-6f47-4cfa-9607-1a69fff1c6c8",
+          "name": "scholarship_and_loan",
+          "required": false,
+          "dataType": "@Scholarship_and_Loan",
+          "value": "$scholarship_and_loan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To apply for the Merit Scholarship, you\u0027ll have to prepare your SPM, UEC, STPM, IB, A-Levels, O-Levels or other qualifications\u0027 result. Then, please fill the APU Malaysian Scholarships \u0026 Merit Awards Application Form online and submit. \nHere is the link for the online form: http://www.apu.edu.my/webform/apu-malaysian-scholarships-merit-awards-2021-form\nUnderstand better by contacting our student counselors. \n[Note: This is only available to local (Malaysian) students.]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

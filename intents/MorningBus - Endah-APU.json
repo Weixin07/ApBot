@@ -1,0 +1,39 @@
+{
+  "id": "e8a7afe0-a141-415f-919f-6ad4091f8b26",
+  "parentId": "e19a2ae4-c986-4678-a2b7-9a46f12a94d5",
+  "rootParentId": "e19a2ae4-c986-4678-a2b7-9a46f12a94d5",
+  "name": "MorningBus - Endah-APU",
+  "auto": true,
+  "contexts": [
+    "MorningBus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MorningBus.MorningBus-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Morning busses for Endah Promenade to APU are available on: 8:00, 8:50, 9:50, 10:40, 11:40"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

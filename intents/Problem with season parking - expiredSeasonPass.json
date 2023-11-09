@@ -1,0 +1,39 @@
+{
+  "id": "f85f2715-55aa-492f-aacb-fe4572fb6ff3",
+  "parentId": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "rootParentId": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "name": "Problem with season parking - expiredSeasonPass",
+  "auto": true,
+  "contexts": [
+    "Problemwithseasonparking-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Problemwithseasonparking.Problemwithseasonparking-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can go to payment counter at level 3 to renew your season pass or terminate the pass. Once you renew it, the subscription will start from the date it is renewed and will run for one calendar month upon renewal."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "66f5d94e-4903-40f9-b2d4-fe8ba9f6f3f4",
+  "parentId": "e7c24d34-e2bf-4157-bcca-4064fa3918a0",
+  "rootParentId": "cd44b0fb-205c-4274-bc02-b4f881505069",
+  "name": "location - APU - admin",
+  "auto": true,
+  "contexts": [
+    "location-APU-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location.location-custom.location-APU-custom",
+      "affectedContexts": [
+        {
+          "name": "location-APU-admin-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday - Thursday (8:30 AM To 8:00 PM)\n.\nFriday (8:30 AM To 7:30 PM)\n.\nSaturday (9:00 AM To 1:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

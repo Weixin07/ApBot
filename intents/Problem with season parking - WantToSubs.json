@@ -1,0 +1,39 @@
+{
+  "id": "e33e4381-7e38-4f66-bbfc-0b2383b631b3",
+  "parentId": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "rootParentId": "9746383c-c9a2-4635-b099-6f32127dd32b",
+  "name": "Problem with season parking - WantToSubs",
+  "auto": true,
+  "contexts": [
+    "Problemwithseasonparking-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Problemwithseasonparking.Problemwithseasonparking-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Season parking can be purchased at the Finance Service Counter @ level 3 Spine"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

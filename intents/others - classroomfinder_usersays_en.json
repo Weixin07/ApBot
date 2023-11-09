@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e808154c-5b26-4883-ac3a-a9596441da98",
+    "data": [
+      {
+        "text": "classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5100bc8e-bbf4-4671-baf8-29e98731b2c4",
+    "data": [
+      {
+        "text": "find a classroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0350ac7-618d-4624-a8af-be8ea3adbcaf",
+    "data": [
+      {
+        "text": "Classroom finder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "45f47a87-4b0a-4745-8fb2-8e5f07b05a96",
+  "parentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "rootParentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "name": "Is there any holidays in this month? - August",
+  "auto": true,
+  "contexts": [
+    "Isthereanyholidaysinthismonth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Isthereanyholidaysinthismonth.Isthereanyholidaysinthismonth-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Awal Muharram (Maal Hijrah) on 10th of Aug."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "National Day on 31st of August."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

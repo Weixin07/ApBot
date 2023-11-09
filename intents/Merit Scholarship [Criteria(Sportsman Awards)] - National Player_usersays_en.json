@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e4eb4e4f-5e2a-47e1-bcf8-45996f054c59",
+    "data": [
+      {
+        "text": "National",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0dd4ffd-c918-46a6-b71e-bcad8f629cfe",
+    "data": [
+      {
+        "text": "National Player",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "82ece28b-f3ed-48af-b7a0-6050b0d0fd4a",
+    "data": [
+      {
+        "text": "graduation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3edfb643-0b86-4b67-861e-69a28c4ea2da",
+    "data": [
+      {
+        "text": "GVS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b6e3e06-fb6a-4521-8e28-edd6ad3f3d5f",
+    "data": [
+      {
+        "text": "Graduation Verification Service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

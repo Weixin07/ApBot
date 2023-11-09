@@ -1,0 +1,50 @@
+{
+  "id": "c3b3d513-f71c-4e01-86c0-3c4eddf4cd0f",
+  "parentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "rootParentId": "f9bdf161-85a5-490c-8f70-d6463f715a08",
+  "name": "Is there any holidays in this month? - Feb",
+  "auto": true,
+  "contexts": [
+    "Isthereanyholidaysinthismonth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Isthereanyholidaysinthismonth.Isthereanyholidaysinthismonth-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Federal Territory Day on 1st of Feb"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chinese New Year on 12th of Feb to 13 of Feb"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

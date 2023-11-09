@@ -1,0 +1,38 @@
+{
+  "id": "b5ece717-a4c2-400c-86f8-25a7087735b4",
+  "parentId": "812f3123-f47d-4da1-8827-61537b5d7952",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship [Criteria(UEC)] - Any that is not from 1 to 24",
+  "contexts": [
+    "MeritScholarshipCriteriaUEC-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipCriteriaUEC-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, there is no available scholarship for this result."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

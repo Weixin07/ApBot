@@ -1,0 +1,55 @@
+{
+  "id": "c80e1f20-055f-4fa2-b15d-f9bebe04da19",
+  "name": "immigration-operationhour",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "immigration-operationhour-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "76e41743-d4b0-48db-a616-92ec0dbf9ae3",
+          "name": "operationhour",
+          "required": false,
+          "dataType": "@operationhour",
+          "value": "$operationhour",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Thursday (9:00 AM To 4:45 PM)\n.\nFriday (9:00 AM To 3:45 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

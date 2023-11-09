@@ -1,0 +1,145 @@
+[
+  {
+    "id": "b182cb0e-b3a3-4dfa-b2a8-eda4e2290037",
+    "data": [
+      {
+        "text": "i want to contact library by phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d76103b2-271f-490f-84ac-5a1c53350c0b",
+    "data": [
+      {
+        "text": "I want the library\u0027s phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6c4d414-ffd4-4960-80ce-0721d5fc573d",
+    "data": [
+      {
+        "text": "I want the library\u0027s contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b00789e4-9cbb-46c9-90a7-c92fc13136ef",
+    "data": [
+      {
+        "text": "direct me to the library contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "255aec0c-6c95-4ba2-9b3f-6c479593195e",
+    "data": [
+      {
+        "text": "direct me to contact the library phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5a72918-61fa-4e0f-ab55-e1c83793ba73",
+    "data": [
+      {
+        "text": "to the library contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ea4f477-a122-4f03-918c-a1d2b984caa5",
+    "data": [
+      {
+        "text": "let me contact the library through the contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b4ce186-9609-4801-9791-a6f5816686ae",
+    "data": [
+      {
+        "text": "library phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0c64ef2-635d-40ec-919d-b75dd0e5c9ef",
+    "data": [
+      {
+        "text": "library contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "769bf26d-8edf-45c7-930a-0d7cac9a5da8",
+    "data": [
+      {
+        "text": "give me the library\u0027s phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7366edb9-c967-4dda-848b-ddd3cfa93131",
+    "data": [
+      {
+        "text": "give me the library\u0027s contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

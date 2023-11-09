@@ -1,0 +1,9 @@
+{
+  "id": "b0ae1298-9059-4430-80d4-c5910e89cc92",
+  "name": "Scholarship_and_Loan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

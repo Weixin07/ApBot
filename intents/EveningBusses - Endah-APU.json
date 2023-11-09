@@ -1,0 +1,39 @@
+{
+  "id": "78434456-1b3f-45f2-be26-c59abc68a0bf",
+  "parentId": "26d0a8d1-94dd-4d94-8ede-7612420076b3",
+  "rootParentId": "26d0a8d1-94dd-4d94-8ede-7612420076b3",
+  "name": "EveningBusses - Endah-APU",
+  "auto": true,
+  "contexts": [
+    "EveningBusses-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EveningBusses.EveningBusses-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Evening bus for Endah Promenade to APU are available at: 12:25, 13:25, 15:15, 16:30, 17:35"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

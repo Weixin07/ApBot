@@ -1,0 +1,40 @@
+{
+  "id": "fcf8fe02-f561-4290-82ca-b5512ad02452",
+  "parentId": "15d21b27-94ca-42ec-ba05-e72a8b216672",
+  "rootParentId": "15d21b27-94ca-42ec-ba05-e72a8b216672",
+  "name": "Attendance - Sign class attendance",
+  "auto": true,
+  "contexts": [
+    "Attendance-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Attendance.Attendance-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please visit https://apspace.apu.edu.my/attendix/update to sign your class attendance."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,39 @@
+{
+  "id": "110b0799-9d59-4386-9d9c-671399712972",
+  "parentId": "e19a2ae4-c986-4678-a2b7-9a46f12a94d5",
+  "rootParentId": "e19a2ae4-c986-4678-a2b7-9a46f12a94d5",
+  "name": "MorningBus - LRT-APU",
+  "auto": true,
+  "contexts": [
+    "MorningBus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MorningBus.MorningBus-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Morning busses from LRT to APU available on: 8:00, 8:30, 9:00, 10:00, 10:30 and 11:00"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

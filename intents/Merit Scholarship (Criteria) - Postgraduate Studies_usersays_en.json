@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5aa42939-fa04-4084-837a-68583f938f42",
+    "data": [
+      {
+        "text": "Doctorate Studies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fc597be-9667-4940-8629-f8fdf3099418",
+    "data": [
+      {
+        "text": "Master\u0027s Degree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c479e8d0-4382-4533-a604-23ddfa982798",
+    "data": [
+      {
+        "text": "Master\u0027s",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f983b98-894a-4bcd-b64e-f74d0d2d08d6",
+    "data": [
+      {
+        "text": "Doctorate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f2139cb-a3aa-4cc8-85ba-edb0d6aff693",
+    "data": [
+      {
+        "text": "Postgraduate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

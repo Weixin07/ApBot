@@ -1,0 +1,35 @@
+{
+  "id": "251c9410-f8d6-4fd0-9606-bc17b61f3969",
+  "name": "LRTRoute",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Traveling by LRT is fairly easy, first thing first you need to plan your route to your location. \nCopy and Paste the link below in your browser to look at the LRT Route Map:\nhttp://dzg7hommjmouy.cloudfront.net/public/2017-11/Klang_Valley_Integrated_Transit_Map.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

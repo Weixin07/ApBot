@@ -1,0 +1,38 @@
+{
+  "id": "6673e6da-4f06-49cd-9b25-cfff71c87fd8",
+  "parentId": "85a43958-e37e-43b6-85b0-59d81d814c6c",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship [Criteria(STPM)] - \"Not in List\"",
+  "contexts": [
+    "MeritScholarshipCriteriaSTPM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom-2.MeritScholarshipCriteriaSTPM-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, there is no available scholarship."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

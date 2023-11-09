@@ -1,0 +1,38 @@
+{
+  "id": "7ed75e89-481a-4513-86ca-c9241d548e5d",
+  "parentId": "9857db2c-7543-4429-81ea-0cded07d0f16",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship [Criteria(IB)] - Anything else that isn\u0027t 26 to 37",
+  "contexts": [
+    "MeritScholarshipCriteriaIB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom-3.MeritScholarshipCriteriaIB-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, there is no available scholarship."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

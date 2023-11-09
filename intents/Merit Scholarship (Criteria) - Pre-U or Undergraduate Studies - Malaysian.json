@@ -1,0 +1,44 @@
+{
+  "id": "1c1452a5-84c6-472e-9c0b-56d732a75505",
+  "parentId": "b5c1bc74-8cac-41f6-96e8-fc573c7b470a",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship (Criteria) - Pre-U or Undergraduate Studies - Malaysian",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipCriteria-Pre-UorUndergraduateStudies-custom",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-Malaysian-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is your qualification? [Please input any of the following: SPM, O-Levels, UEC, A-Levels, STPM, IB, OSSD, CIMP, Sportsman Awards,  East Malaysia Community Rebates or MDEC Digital Ninja Rebates]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

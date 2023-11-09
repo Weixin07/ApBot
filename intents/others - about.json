@@ -1,0 +1,39 @@
+{
+  "id": "f0205446-fc36-43f6-8557-53bd36a48b40",
+  "parentId": "bad59c26-bd99-4d3a-8f34-4a31a7183dd4",
+  "rootParentId": "bad59c26-bd99-4d3a-8f34-4a31a7183dd4",
+  "name": "others - about",
+  "auto": true,
+  "contexts": [
+    "others-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "others.others-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here you go! Please go to the following link : https://apspace.apu.edu.my/about"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

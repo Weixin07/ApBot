@@ -1,0 +1,39 @@
+{
+  "id": "bf050302-0436-496a-9b20-dffb77a72c24",
+  "parentId": "62aeb6ff-1054-4856-9005-02b1475992d2",
+  "rootParentId": "2af95d04-f797-492d-af64-e844506c2184",
+  "name": "APUShuttleBus - yes - LRT to APU",
+  "auto": true,
+  "contexts": [
+    "APUShuttleBus-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "APUShuttleBus.APUShuttleBus-yes.APUShuttleBus-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Following are the available time for travelling from LRT to APU/APIIT: 8:00, 9:30, 9:00, 10:00, 10:30, 11:00, 12:15, 13:10, 13:50, 16:15, 17:45"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

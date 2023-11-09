@@ -1,0 +1,38 @@
+{
+  "id": "5b7345c4-0414-4c09-90b4-5b67b6b5b999",
+  "parentId": "91ab01de-5b96-467a-98cf-ffe7e8aef364",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarships [Criteria (SPM)] - Below 4 A\u0027s",
+  "contexts": [
+    "MeritScholarshipsCriteriaSPM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipsCriteriaSPM-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, there is no available scholarships for 3A\u0027s and below."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

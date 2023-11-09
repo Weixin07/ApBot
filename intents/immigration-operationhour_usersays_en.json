@@ -1,0 +1,21 @@
+[
+  {
+    "id": "ada95f95-aecc-4a98-ba7c-9c0a2a9a45d7",
+    "data": [
+      {
+        "text": "immigration ",
+        "userDefined": false
+      },
+      {
+        "text": "operating hour",
+        "meta": "@operationhour",
+        "alias": "operationhour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "7ddad2c8-fbf9-4f2d-8db3-24c7b81f11d3",
+  "parentId": "f753bf1b-79f9-480d-abca-561bcd615e52",
+  "rootParentId": "f753bf1b-79f9-480d-abca-561bcd615e52",
+  "name": "technologylabs-operationhour - APU",
+  "auto": true,
+  "contexts": [
+    "technologylabs-operationhour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "technologylabs-operationhour.technologylabs-operationhour-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Friday (8:30 AM To 7:00 PM)\n.\nSaturday (9:00 AM To 1:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

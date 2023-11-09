@@ -1,0 +1,36 @@
+{
+  "id": "3ee61e82-c770-4969-84cc-f82f76d2a6ab",
+  "name": "HowToParking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The APCard can be used to access the parking by driving up to the parking entrance and holding the APCard against the reader. If the APCard is valid, the system will allow you access to the parking area.",
+            "Tap your card on the sensor located at the parking entrance, proceed to enter the parking lot after the barrier is lifted up. Any information or warning will be displayed on the sensor screen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

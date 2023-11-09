@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bfc82112-ee11-41d4-a02c-4ef742be20d0",
+    "data": [
+      {
+        "text": "Amount from Merit ",
+        "userDefined": false
+      },
+      {
+        "text": "Scholarship",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cb8ea99-e5ce-4be5-9403-f7a86b65a5b5",
+    "data": [
+      {
+        "text": "Criteria of Merit ",
+        "userDefined": false
+      },
+      {
+        "text": "Scholarship",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f9bd4be-85eb-4fd0-a2db-0e4be630b110",
+    "data": [
+      {
+        "text": "How much can I get from the merit ",
+        "userDefined": false
+      },
+      {
+        "text": "scholarship?",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed0c7cd0-81ff-400d-b363-cf0c9ffd2368",
+    "data": [
+      {
+        "text": "What are the criteria for the merit ",
+        "userDefined": false
+      },
+      {
+        "text": "scholarship",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

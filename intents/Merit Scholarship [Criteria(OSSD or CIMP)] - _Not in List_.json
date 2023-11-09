@@ -1,0 +1,38 @@
+{
+  "id": "ea4ce887-1c79-4977-8fc1-8b4452987f4c",
+  "parentId": "ef2eb0ee-5536-48cf-a12b-ab206bae2265",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship [Criteria(OSSD or CIMP)] - \"Not in List\"",
+  "contexts": [
+    "MeritScholarshipCriteriaOSSDorCIMP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom-5.MeritScholarshipCriteriaOSSDorCIMP-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, There is no available scholarship."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

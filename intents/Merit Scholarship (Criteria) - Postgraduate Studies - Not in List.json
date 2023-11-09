@@ -1,0 +1,39 @@
+{
+  "id": "d7ac1467-87b4-4445-8873-e576a6c41c87",
+  "parentId": "7ac1e47b-0f76-4b44-8099-04e7bb31ea78",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship (Criteria) - Postgraduate Studies - Not in List",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-PostgraduateStudies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipCriteria-PostgraduateStudies-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, there is no available scholarship."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

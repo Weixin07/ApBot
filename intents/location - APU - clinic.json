@@ -1,0 +1,39 @@
+{
+  "id": "1d202577-f598-43b4-a643-e48b7ca32e1c",
+  "parentId": "e7c24d34-e2bf-4157-bcca-4064fa3918a0",
+  "rootParentId": "cd44b0fb-205c-4274-bc02-b4f881505069",
+  "name": "location - APU - clinic",
+  "auto": true,
+  "contexts": [
+    "location-APU-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location.location-custom.location-APU-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Friday (9:00 AM To 5:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,315 @@
+[
+  {
+    "id": "ba20e649-8da0-4e9f-951a-e2763f547959",
+    "data": [
+      {
+        "text": "I want to email the admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20ff3cfb-3b05-4a58-bacb-5a0a08844296",
+    "data": [
+      {
+        "text": "I want the admin\u0027s contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0d8a382-424e-4feb-8e29-547e11fc5dc2",
+    "data": [
+      {
+        "text": "direct me to contact the admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0e6c7b5-41db-4014-8167-b7956a8c8abc",
+    "data": [
+      {
+        "text": "to the admin contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da4efe34-3178-4551-b6c0-604f7e4c0796",
+    "data": [
+      {
+        "text": "let me contact the admin contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f5eef67-8b54-4bba-94bb-6eaf7dac43a0",
+    "data": [
+      {
+        "text": "let me contact the admin email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1e1082a-e99d-4102-86c3-c7285ae1d3f0",
+    "data": [
+      {
+        "text": "give me the admin\u0027s contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18a930fb-9a63-4b7c-8071-546e67c6bbbe",
+    "data": [
+      {
+        "text": "give me the admin\u0027s email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "186b21cf-9b5a-4c03-949a-2ccdce20a133",
+    "data": [
+      {
+        "text": "i want to contact admin by email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b57032ec-5745-48d1-8fcc-29c2b66a3d45",
+    "data": [
+      {
+        "text": "i want to contact admin through email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbb1e08c-8e38-4f7e-b0ce-4ef0142351d6",
+    "data": [
+      {
+        "text": "direct me to admin email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49e87dfd-20e2-44af-a7c6-e51e5b97573c",
+    "data": [
+      {
+        "text": "direct me to admin contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c500203-5fd7-4bbf-a2cc-1885c252e02d",
+    "data": [
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " enquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e746033-7e43-446a-83dd-0e6a46f3ec25",
+    "data": [
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " inquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b3beb6e-9ae1-4d14-9114-249f5f5ffe58",
+    "data": [
+      {
+        "text": "admin inquiries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef6bcf33-b90f-4459-ac07-b0bd40cc641d",
+    "data": [
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " enquiries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8ed3790-dca8-4295-8991-36bff45cfa55",
+    "data": [
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba456904-3a04-42ca-a0fa-8b7ad0d91224",
+    "data": [
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33af5f6d-7789-4fdf-a2d8-ab60674fbb25",
+    "data": [
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ae0e02d-fe84-4e4f-82f0-e0bff35f8e19",
+    "data": [
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75ffebb1-7401-4357-8d12-292316d4312d",
+    "data": [
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

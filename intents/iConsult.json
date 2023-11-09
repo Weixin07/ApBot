@@ -1,0 +1,35 @@
+{
+  "id": "090dcc1c-15dc-46b2-97ff-011e282b70a9",
+  "name": "iConsult",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Use iConsult to make appointments with staffs of APU.\nLink of iConsult: https://apspace.apu.edu.my/iconsult/my-appointments\nTo view the list of staffs: https://apspace.apu.edu.my/staffs"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

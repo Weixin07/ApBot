@@ -1,0 +1,54 @@
+[
+  {
+    "id": "15158777-94e5-4228-96c5-d351ad156fcd",
+    "data": [
+      {
+        "text": "How do I travel by LRT?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97cf4cb7-010f-4b4b-a7a1-eaa5791327b6",
+    "data": [
+      {
+        "text": "Where can I go by LRT?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc713e64-ef75-4284-9b97-2cbe3c4b33d9",
+    "data": [
+      {
+        "text": "How to see LRT Route",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df4729ce-b144-4cc9-b5c9-2403f2a00af2",
+    "data": [
+      {
+        "text": "LRT Route",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

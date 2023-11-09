@@ -1,0 +1,35 @@
+{
+  "id": "e5799fa1-b2b8-4f21-9784-761be0a46feb",
+  "name": "Scholarships and Loans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can apply for scholarships and loans. To learn more, please go to http://www.apu.edu.my/study-apu/financing-your-study/education-study-loans\n(Only applicable for Malaysian students. If you\u0027re a foreign student, please contact the student counselor for more information.)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

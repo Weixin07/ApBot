@@ -1,0 +1,39 @@
+{
+  "id": "4642b03e-b40c-4df4-8f6b-26432b954bc7",
+  "parentId": "7ac1e47b-0f76-4b44-8099-04e7bb31ea78",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship (Criteria) - Postgraduate Studies - \u003e\u003d3.7",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-PostgraduateStudies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipCriteria-PostgraduateStudies-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 30% discount on tuition fee."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

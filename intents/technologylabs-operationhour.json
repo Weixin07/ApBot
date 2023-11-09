@@ -1,0 +1,69 @@
+{
+  "id": "f753bf1b-79f9-480d-abca-561bcd615e52",
+  "name": "technologylabs-operationhour",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "technologylabs-operationhour-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c8af9b5f-4919-447a-8edb-7002a2e1b3d1",
+          "name": "techlab",
+          "required": false,
+          "dataType": "@techlab",
+          "value": "$techlab",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b5b8ecff-2488-4bf8-82a5-7bc6e806a53a",
+          "name": "operationhour",
+          "required": false,
+          "dataType": "@operationhour",
+          "value": "$operationhour",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please select your dedicated location. [APU or APIIT]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

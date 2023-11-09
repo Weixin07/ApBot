@@ -1,0 +1,39 @@
+{
+  "id": "b1d45602-99a3-4768-9902-a9eb5757856a",
+  "parentId": "e19a2ae4-c986-4678-a2b7-9a46f12a94d5",
+  "rootParentId": "e19a2ae4-c986-4678-a2b7-9a46f12a94d5",
+  "name": "MorningBus - APU-Fortune",
+  "auto": true,
+  "contexts": [
+    "MorningBus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MorningBus.MorningBus-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Morning bus for APU to Fortune Park are available on 11:20 only"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

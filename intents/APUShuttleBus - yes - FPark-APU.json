@@ -1,0 +1,39 @@
+{
+  "id": "930c3665-27f7-4125-b036-f5246d1e89b5",
+  "parentId": "62aeb6ff-1054-4856-9005-02b1475992d2",
+  "rootParentId": "2af95d04-f797-492d-af64-e844506c2184",
+  "name": "APUShuttleBus - yes - FPark-APU",
+  "auto": true,
+  "contexts": [
+    "APUShuttleBus-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "APUShuttleBus.APUShuttleBus-yes.APUShuttleBus-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Shuttle Bus from Fortune Park to APU are available on: 8:00, 9:00, 10:00, 10:45, 12:00, 13:30, 15:30, 16:30, 17:35"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

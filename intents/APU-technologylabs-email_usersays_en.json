@@ -1,0 +1,498 @@
+[
+  {
+    "id": "15c65073-1bce-4b1f-a777-c6f912b01f85",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " contacts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5699a06-f2cd-41f2-bfc3-e9109ffeab8c",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "887c4211-0dfd-4f19-9aac-107141904b9e",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d06db77-b50e-4c64-9600-b0468cab9537",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12eb6915-b4c4-4f8a-b6ad-cfe60721fa8d",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb2acf2c-04b4-4e30-8d89-9b7469d617a8",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1257742a-d4cc-4257-bbe8-4fe791d610b0",
+    "data": [
+      {
+        "text": "I want to email the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ecf89aa-4cc6-4e48-8da6-63fa2d50fc08",
+    "data": [
+      {
+        "text": "I want to contact the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "890a66cb-8aba-43b5-a5ef-5da7ff6b64b9",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " inquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b82332a9-f64f-4b46-b000-0188c6115388",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " inquiries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30b41d57-ff80-4c11-80c8-a3a96cbcea1f",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " enquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edbe6906-9b3f-4ac0-97f4-801aaae413d8",
+    "data": [
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " enquiries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45d63431-8e6c-4378-b16e-7dc169a24df3",
+    "data": [
+      {
+        "text": "i want to contact ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " by email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e8e5e29-c400-4ce3-8409-1bd399d67d05",
+    "data": [
+      {
+        "text": "i want the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5077d8e6-ce19-4d39-a81f-fb0eca356389",
+    "data": [
+      {
+        "text": "I want the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8a8b64f-7091-4dd2-9653-9bb9d125eb37",
+    "data": [
+      {
+        "text": "I want the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc0ab52b-bb34-4b7b-b0af-19351d867268",
+    "data": [
+      {
+        "text": "direct me to ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37548b9d-f32a-4b93-8b0f-c03c01ddb3ce",
+    "data": [
+      {
+        "text": "direct me to ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2974b73e-578b-4d1a-8e75-41793be2bb4f",
+    "data": [
+      {
+        "text": "direct me to the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87dace2c-3204-4433-b22b-db78c32f5d73",
+    "data": [
+      {
+        "text": "direct me to contact the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology labs",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e93cd9e1-0209-4953-8bac-20b227b8cf8a",
+    "data": [
+      {
+        "text": "to the immigration contact ",
+        "userDefined": false
+      },
+      {
+        "text": "technology labs",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e504e86-3e33-4434-aa28-26ac8ba4f48e",
+    "data": [
+      {
+        "text": "let me contact the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology labs",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be7f6e50-214b-4378-800e-75dd13f0e3dd",
+    "data": [
+      {
+        "text": "let me contact the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology labs",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": " through email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98ce905d-d182-4b31-b9bc-1b455369c328",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "technology lab",
+        "meta": "@techlab",
+        "alias": "techlab",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

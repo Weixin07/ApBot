@@ -1,0 +1,39 @@
+{
+  "id": "e48b38b7-f34b-4f1c-b973-e454a7cea89c",
+  "parentId": "9fedbf02-6165-4229-85ac-36ce2a3c114b",
+  "rootParentId": "9fedbf02-6165-4229-85ac-36ce2a3c114b",
+  "name": "cashier-operationhour - APU",
+  "auto": true,
+  "contexts": [
+    "cashier-operationhour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cashier-operationhour.cashier-operationhour-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Thursday (9:15 AM To 6:15 PM)\n.\nSaturday (9:15 AM To 1:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

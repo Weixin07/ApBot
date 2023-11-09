@@ -1,0 +1,28 @@
+[
+  {
+    "id": "fde0979b-8382-40c5-b845-c2435283fb4a",
+    "data": [
+      {
+        "text": "APU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed8e7c5-99b0-4855-adfc-e700faefaa62",
+    "data": [
+      {
+        "text": "Asia Pacific University",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

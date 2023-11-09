@@ -1,0 +1,105 @@
+[
+  {
+    "id": "a4406f61-5e95-4e6a-bd05-fdf7d86ace1c",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "loan",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      },
+      {
+        "text": " I can take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e77c9a40-8f8b-4bed-81cf-92c9349e1c3c",
+    "data": [
+      {
+        "text": "Is there any ",
+        "userDefined": false
+      },
+      {
+        "text": "loan",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b90a4dd-0cfd-44f3-9a5e-dc438f4ab70d",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "loans",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      },
+      {
+        "text": " are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4cf7668-8c6e-42ae-be5d-b6c966455ef5",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "loans",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c999145-e227-4b31-b76a-9e217cc1eed5",
+    "data": [
+      {
+        "text": "Loans",
+        "meta": "@Scholarship_and_Loan",
+        "alias": "scholarship_and_loan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

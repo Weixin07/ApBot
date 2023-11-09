@@ -1,0 +1,38 @@
+{
+  "id": "4d972908-fb1d-4eb2-b306-2269bb075708",
+  "parentId": "0289497f-464d-4557-b08c-7c1d12354036",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarship [Criteria(O-Levels)] - Any that is not 4, 5, 6, 7, 8 or 9 A\u0027s",
+  "contexts": [
+    "MeritScholarshipCriteriaO-Levels-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipCriteriaO-Levels-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, there is no available scholarships for these amount of A\u0027s."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

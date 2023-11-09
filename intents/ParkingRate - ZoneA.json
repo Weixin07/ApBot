@@ -1,0 +1,40 @@
+{
+  "id": "c016c403-e4fe-4da9-9af9-cc7da94dcc4c",
+  "parentId": "629b7a51-495a-4334-bedd-4b01e9022769",
+  "rootParentId": "629b7a51-495a-4334-bedd-4b01e9022769",
+  "name": "ParkingRate - ZoneA",
+  "auto": true,
+  "contexts": [
+    "ParkingRate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ParkingRate.ParkingRate-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Zone A Parking will be charges by daily basis which is RM5.30 per day.",
+            "Zone A parking is RM5.30 per day"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "595afa58-d02a-429d-a7aa-6603dc802d12",
+    "data": [
+      {
+        "text": "operation hour",
+        "meta": "@operationhour",
+        "alias": "operationhour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

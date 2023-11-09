@@ -1,0 +1,40 @@
+{
+  "id": "7b7d1ab9-bc45-4927-a42e-af509e8be005",
+  "parentId": "629b7a51-495a-4334-bedd-4b01e9022769",
+  "rootParentId": "629b7a51-495a-4334-bedd-4b01e9022769",
+  "name": "ParkingRate - ZoneB",
+  "auto": true,
+  "contexts": [
+    "ParkingRate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ParkingRate.ParkingRate-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Zone B Parking will be charged by hourly rates whereby:\n- 1st hour cost RM1.59\n- RM1.06 will be charged every subsequent hour. \n- Maximum rate is RM4.77 at Zone B Parking.\n*Parking rates are based on per entry basis in Zone B*",
+            "Zone B parking will be charged RM1.59 on the first hour and RM1.06 will be charged hourly until you exit the parking which capped at RM4.77 per day.\nPlease note that Zone B parking is on per entry basis."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

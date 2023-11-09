@@ -1,0 +1,9 @@
+{
+  "id": "25e8c343-5887-4627-bf1a-f793ae21f5bc",
+  "name": "techlab",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

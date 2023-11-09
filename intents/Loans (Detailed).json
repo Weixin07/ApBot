@@ -1,0 +1,50 @@
+{
+  "id": "05cc27bd-8d23-4662-8d03-5be0ab3ad80e",
+  "name": "Loans (Detailed)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0366527f-0d27-4fd5-8795-5c9bbac4ad63",
+          "name": "scholarship_and_loan",
+          "required": false,
+          "dataType": "@Scholarship_and_Loan",
+          "value": "$scholarship_and_loan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are different loans available that is accepted by APU. One of them being PTPTN (National Higher Education Fund), MARA Loan, Bank Loan and more. \nRead more at: http://www.apu.edu.my/study-apu/malaysian-students"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

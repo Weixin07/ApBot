@@ -1,0 +1,41 @@
+[
+  {
+    "id": "70de1c38-c6aa-47ef-95e3-bdb4a1ce7d26",
+    "data": [
+      {
+        "text": "from APU to Endah Promenade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36aa6641-da42-47cd-992a-7af809077125",
+    "data": [
+      {
+        "text": "APU - Endah Promenade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eaa4fddf-6cf1-4e02-b279-bc293cc4b576",
+    "data": [
+      {
+        "text": "APU to Endah Promenade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

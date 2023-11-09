@@ -1,0 +1,41 @@
+[
+  {
+    "id": "5abc6863-72a8-40fc-87b1-8f8193182188",
+    "data": [
+      {
+        "text": "What is a student handbook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "122ea825-d490-4e43-9d1c-430ce259419b",
+    "data": [
+      {
+        "text": "Student handbook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf97bac4-1f7a-4280-bde4-9dd46b45b5b2",
+    "data": [
+      {
+        "text": "Handbook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

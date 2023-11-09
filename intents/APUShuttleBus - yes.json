@@ -1,0 +1,45 @@
+{
+  "id": "62aeb6ff-1054-4856-9005-02b1475992d2",
+  "parentId": "2af95d04-f797-492d-af64-e844506c2184",
+  "rootParentId": "2af95d04-f797-492d-af64-e844506c2184",
+  "name": "APUShuttleBus - yes",
+  "auto": true,
+  "contexts": [
+    "APUShuttleBus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "APUShuttleBus.APUShuttleBus-yes",
+      "affectedContexts": [
+        {
+          "name": "APUShuttleBus-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "From where to where?",
+            "Please state from and to location"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2600cef1-24ee-47fe-ad3b-6d7cb963b9de",
+  "parentId": "91ab01de-5b96-467a-98cf-ffe7e8aef364",
+  "rootParentId": "f9e98779-e51c-450f-8620-f3e7e315b4da",
+  "name": "Merit Scholarships [Criteria (SPM)] - 8 A\u0027s",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipsCriteriaSPM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom.MeritScholarshipsCriteriaSPM-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 40% Discount on tuition fee. \nMerit Awards are awarded on a yearly basis and are renewable upon meeting minimum CGPA 3.00 at the end of each academic year."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

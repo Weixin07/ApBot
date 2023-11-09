@@ -1,0 +1,42 @@
+{
+  "id": "31076cad-f652-499e-b4f6-bb5d4a9227ef",
+  "parentId": "2af95d04-f797-492d-af64-e844506c2184",
+  "rootParentId": "2af95d04-f797-492d-af64-e844506c2184",
+  "name": "APUShuttleBus - no",
+  "auto": true,
+  "contexts": [
+    "APUShuttleBus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "APUShuttleBus.APUShuttleBus-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok.",
+            "Alright, anything else I can help with?",
+            "Alright.",
+            "Ok, anything else I can help with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

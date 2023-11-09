@@ -1,0 +1,67 @@
+[
+  {
+    "id": "08f4bc78-4898-4a55-9593-868fb336fc97",
+    "data": [
+      {
+        "text": "Any announcements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5424f9d-d75a-4aaa-b338-8f8dcbe08dbb",
+    "data": [
+      {
+        "text": "Any updates on APU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7a151f1-893d-48e0-a425-7f92b686b024",
+    "data": [
+      {
+        "text": "Anything new that happened in APU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18445abe-b820-40b1-8932-9ac72fe10b99",
+    "data": [
+      {
+        "text": "What\u0027s the latest news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e16e58d-34b0-47b0-b1e3-f0387429101c",
+    "data": [
+      {
+        "text": "Latest News",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

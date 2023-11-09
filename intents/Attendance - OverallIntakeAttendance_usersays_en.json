@@ -1,0 +1,28 @@
+[
+  {
+    "id": "0aadaa48-d58a-411d-9521-1ea0fa885cbd",
+    "data": [
+      {
+        "text": "overall intake attendance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed29adc6-6478-4aa9-b3e2-e77a2dd543f5",
+    "data": [
+      {
+        "text": "My overall intake attendance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

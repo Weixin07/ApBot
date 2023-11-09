@@ -1,0 +1,39 @@
+{
+  "id": "2e1568bd-3c20-4710-8d3a-6878c021422d",
+  "parentId": "9bed9b4c-4c20-4030-b65f-6fca8aa9cf1c",
+  "rootParentId": "9bed9b4c-4c20-4030-b65f-6fca8aa9cf1c",
+  "name": "academicoperation - APiX/ERP",
+  "auto": true,
+  "contexts": [
+    "academicoperation-APiXERP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "academicoperation-APiXERP.academicoperation-APiXERP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To view more about APiX/ERP, please go to the following link : https://erp.apiit.edu.my/easymoo/web/en/"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

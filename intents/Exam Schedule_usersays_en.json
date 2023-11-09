@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f8cbd54f-6e10-48c7-a7ee-8401c685a673",
+    "data": [
+      {
+        "text": "examination guideline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4637bbfd-0e42-4f53-b09f-c13143bae6de",
+    "data": [
+      {
+        "text": "where do i see examination guideline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1598807-a09e-48f7-83e5-3805a91310e1",
+    "data": [
+      {
+        "text": "where do i see my exam schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "914652e5-dd56-4131-8994-32633e4bcbc5",
+    "data": [
+      {
+        "text": "exam schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8482cce8-5a39-44a5-a53b-bea63a62aee5",
+    "data": [
+      {
+        "text": "When is my exam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

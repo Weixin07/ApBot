@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1914204b-caca-4d6b-9cb8-42cacb485bc8",
+    "data": [
+      {
+        "text": "Anything I should be notified about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f3ab078-6463-4085-b2e8-48896782abe7",
+    "data": [
+      {
+        "text": "Where to check notifications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b433d8-a4d1-4b8d-b346-c1e283219c4d",
+    "data": [
+      {
+        "text": "Notifications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

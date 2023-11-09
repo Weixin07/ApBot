@@ -1,0 +1,41 @@
+[
+  {
+    "id": "a94e1d8b-3c93-49dd-8178-3ea842d49f48",
+    "data": [
+      {
+        "text": "Foreigner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7c9d3e6-924e-48d7-b94c-2de1eb3340d1",
+    "data": [
+      {
+        "text": "Foreign Student",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ba2f8d1-ef4f-4ce2-9f27-5f6a080b81f0",
+    "data": [
+      {
+        "text": "Foreign",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

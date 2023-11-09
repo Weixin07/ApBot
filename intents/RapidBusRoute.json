@@ -1,0 +1,35 @@
+{
+  "id": "0e0d840f-322f-4d2c-9d09-8dab612de031",
+  "name": "RapidBusRoute",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Copy and paste the link below on your browser for the complete route:\nhttps://www.myrapid.com.my/traveling-with-us/how-to-travel-with-us/rapid-kl/bus\nYou can travel around Ampang, Cheras, Damansara, Jalan Ipoh, Jalan Klang lama, Jalan Pahang, Lebuhraya Persekutuan and Sungai Besi by exchanging bus."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

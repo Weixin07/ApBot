@@ -1,0 +1,28 @@
+[
+  {
+    "id": "567e6b69-325e-4fa0-ad65-6c3b8e03e84d",
+    "data": [
+      {
+        "text": "course schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a0e2f3c-a056-4279-a6a3-f054e6f0bf39",
+    "data": [
+      {
+        "text": "What is a course schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

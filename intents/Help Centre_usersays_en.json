@@ -1,0 +1,223 @@
+[
+  {
+    "id": "c14fbf26-9d3c-4504-8d17-5e2f9cec0de3",
+    "data": [
+      {
+        "text": "How to borrow books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a197667f-a108-4ebd-a51c-5a1af1accd13",
+    "data": [
+      {
+        "text": "I\u0027m lost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9fde1c5-004e-4acc-8b9d-1571e17e8f57",
+    "data": [
+      {
+        "text": "Where is the library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a13c45b-c133-4b9b-b87c-c8ce72a633e5",
+    "data": [
+      {
+        "text": "How much for off campus accomodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd925a78-acf3-437c-be62-363279f3fe16",
+    "data": [
+      {
+        "text": "How much for on campus accomodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d45b364e-dea8-4c5a-98bc-5546a58cb243",
+    "data": [
+      {
+        "text": "Is there any accomodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a6b14cd-1bcc-4456-9971-973706da52b3",
+    "data": [
+      {
+        "text": "My Visa is expiring, how",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54a497b9-23ca-435e-9b36-2c96f22c51b0",
+    "data": [
+      {
+        "text": "What\u0027s an exam docket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c910157-7069-45e1-8f76-ff0ab83c160b",
+    "data": [
+      {
+        "text": "What to do after I graduate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "383df7a3-448f-4b91-bfd4-23b1a626eea9",
+    "data": [
+      {
+        "text": "What\u0027s internship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41b2f2ae-8374-4283-916a-5a0e95b3873d",
+    "data": [
+      {
+        "text": "How to find a job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bc225d1-582d-41e5-ba6e-0afd8ccd4112",
+    "data": [
+      {
+        "text": "I can\u0027t connect to the campus wifi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5067ec85-0fd3-4b62-b601-9e591308fb01",
+    "data": [
+      {
+        "text": "I\u0027m having problem with logging on into my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5c249da-a27b-4634-9133-50e20d6a3f10",
+    "data": [
+      {
+        "text": "I have questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "820100ac-3798-4cc8-b1e0-c95185c555cb",
+    "data": [
+      {
+        "text": "Where to get help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2aa960b-b92e-4520-93d8-f9e3ec72db97",
+    "data": [
+      {
+        "text": "I need asistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51d0f4e7-9b1f-4bd8-99b0-950671e430ab",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

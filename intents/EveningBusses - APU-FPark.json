@@ -1,0 +1,39 @@
+{
+  "id": "b16a8fef-45de-4076-8276-7aa913370d9a",
+  "parentId": "26d0a8d1-94dd-4d94-8ede-7612420076b3",
+  "rootParentId": "26d0a8d1-94dd-4d94-8ede-7612420076b3",
+  "name": "EveningBusses - APU-FPark",
+  "auto": true,
+  "contexts": [
+    "EveningBusses-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EveningBusses.EveningBusses-custom-6",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Evening busses for APU to Fortune Park are available at: 13:05, 15:10, 16:10, 17:10, 18:15, 19:15"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

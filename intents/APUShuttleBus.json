@@ -1,0 +1,41 @@
+{
+  "id": "2af95d04-f797-492d-af64-e844506c2184",
+  "name": "APUShuttleBus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "APUShuttleBus-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "APU Campus Connect Lounge will serve purposes for Arrival and Departure for all APU Shuttle Buses. \nThe Lounge is located on Level 1 near the staff car park which could be access by lift and stairs at Block E. Do you want to know about the timetable?",
+            "APU Shuttle Busses will be ready at APU Campus Connect Lounge from time to time which located at Block E level 1. Want to know about the timetable?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

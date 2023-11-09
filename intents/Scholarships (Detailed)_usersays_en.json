@@ -1,0 +1,67 @@
+[
+  {
+    "id": "753334b7-d52b-4132-8807-f5a830e48b95",
+    "data": [
+      {
+        "text": "Any scholarships?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e7f7fe0-a726-4905-927a-c5851df24426",
+    "data": [
+      {
+        "text": "Scholarship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a473432-32dc-4077-b760-ba712f35f4a8",
+    "data": [
+      {
+        "text": "Scholarships",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3867be0-1546-45ad-abe4-d868cdd6eb7a",
+    "data": [
+      {
+        "text": "Any other scholarships?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bd44091-fea9-4e17-91c4-edf14d453d88",
+    "data": [
+      {
+        "text": "Is there any scholarships that I can take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

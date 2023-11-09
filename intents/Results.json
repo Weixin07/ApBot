@@ -1,0 +1,36 @@
+{
+  "id": "829581e6-0e9d-4bcb-a5c8-ca2d032ec074",
+  "name": "Results",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Before you can see your new result, you must complete the survey about a module for it. Please go to https://apspace.apu.edu.my/studentsurvey to do the survey. To view your previous results, please go to https://apspace.apu.edu.my/results"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

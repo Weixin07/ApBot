@@ -1,0 +1,21 @@
+[
+  {
+    "id": "4038cf65-bcf2-4595-bbc7-28e703eebc4b",
+    "data": [
+      {
+        "text": "student service ",
+        "userDefined": false
+      },
+      {
+        "text": "operation hour",
+        "meta": "@operationhour",
+        "alias": "operationhour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

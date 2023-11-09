@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c9b4c36a-dae5-44d7-9d29-1e7a98cebe6d",
+    "data": [
+      {
+        "text": "setting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86e23056-053d-403d-a567-b6b5a1eb2669",
+    "data": [
+      {
+        "text": "view setting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27307e35-065a-4140-965d-68d22ddc3137",
+    "data": [
+      {
+        "text": "go to settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cefee71-86ab-44e7-931f-ca81c0caff9c",
+    "data": [
+      {
+        "text": "settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "718aff14-caa2-4d54-8c8b-959c2ef6182b",
+    "data": [
+      {
+        "text": "morning shuttle bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91871317-998b-4b4a-b2fb-a740ce7d3102",
+    "data": [
+      {
+        "text": "morning bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23ba88ea-9a73-463e-8709-03302e17d272",
+    "data": [
+      {
+        "text": "shuttle bus on morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b044cb3c-e53d-4a24-92a7-9511e646fbb3",
+    "data": [
+      {
+        "text": "Shuttle bus for morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc9195b4-f736-4228-8fde-5c4c5f664f93",
+    "data": [
+      {
+        "text": "Morning busses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

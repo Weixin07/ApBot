@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e0f582bf-9d95-4f87-ac6a-e3531342610c",
+    "data": [
+      {
+        "text": "Where can I park indoor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba60fc63-5d99-4ec8-b500-74c62436e7b2",
+    "data": [
+      {
+        "text": "Parking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c49b5c7c-d841-48d4-8381-dd21ccde9c38",
+    "data": [
+      {
+        "text": "Where can I park my car?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed109855-4644-454e-bbfe-aa75fa4d3973",
+    "data": [
+      {
+        "text": "Where can I park my vehicle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b299f682-a930-4367-b96c-cf7be477fcf5",
+    "data": [
+      {
+        "text": "Where to park my car?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f35e4164-360e-46ee-808f-9d815282fe7e",
+    "data": [
+      {
+        "text": "Where to park my vehicle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

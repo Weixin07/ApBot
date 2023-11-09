@@ -1,0 +1,39 @@
+{
+  "id": "8a8200a7-14df-4233-a206-af7a3ff3b8c2",
+  "parentId": "bad59c26-bd99-4d3a-8f34-4a31a7183dd4",
+  "rootParentId": "bad59c26-bd99-4d3a-8f34-4a31a7183dd4",
+  "name": "others - classroomfinder",
+  "auto": true,
+  "contexts": [
+    "others-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "others.others-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here you go! Please go to the following link : https://apspace.apu.edu.my/classroom-finder"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

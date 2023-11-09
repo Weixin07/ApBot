@@ -1,0 +1,37 @@
+{
+  "id": "1cf046d2-0f97-433f-86ce-b08c5f63e277",
+  "name": "Merit Scholarship [Criteria(A-Levels)] - BBB",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteriaA-Levels-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MeritScholarshipCriteria.MeritScholarshipCriteria-custom-4.MeritScholarshipCriteriaA-Levels-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 10% discount on tuition fee.\t\nMerit Awards are awarded on a yearly basis and are renewable upon meeting minimum CGPA 2.50 at the end of each academic year."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

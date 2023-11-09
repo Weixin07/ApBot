@@ -1,0 +1,145 @@
+[
+  {
+    "id": "23f21644-df9f-48f9-bfb3-21a36bcd8604",
+    "data": [
+      {
+        "text": "I want to contact accommodation by  contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef56a703-9eb0-44e9-a875-9bd986719f01",
+    "data": [
+      {
+        "text": "I want the accommodation\u0027s phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a1e1319-6a0b-4dac-8e4b-1f97ef90d255",
+    "data": [
+      {
+        "text": "I want the accommodation\u0027s contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb90f1fd-eda8-443c-b213-d9691723f5c0",
+    "data": [
+      {
+        "text": "direct me to the accommodation contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fa4814b-4199-455d-9136-de7dbaedeaec",
+    "data": [
+      {
+        "text": "direct me to contact the accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c5695cd-6fee-4276-939b-b8d0671af86a",
+    "data": [
+      {
+        "text": "to the accommodation contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "400cdc15-ce84-4f44-8fdf-df91d1942dbc",
+    "data": [
+      {
+        "text": "let me contact the accommodation phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ad44642-d9ba-4f43-8130-4c20b7e89c20",
+    "data": [
+      {
+        "text": "let me contact the accommodation through contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc7cce1f-4e5f-4503-960d-a838cbeee6b1",
+    "data": [
+      {
+        "text": "accommodation phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05f0dd72-5450-41d0-8e86-18df15862b83",
+    "data": [
+      {
+        "text": "accommodation contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e4adf86-d20d-464d-97ab-d51d95496cb8",
+    "data": [
+      {
+        "text": "give me the accommodation\u0027s contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

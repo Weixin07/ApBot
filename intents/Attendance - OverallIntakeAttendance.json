@@ -1,0 +1,40 @@
+{
+  "id": "1cb75a66-4dee-4db6-be94-77a72fe7af83",
+  "parentId": "15d21b27-94ca-42ec-ba05-e72a8b216672",
+  "rootParentId": "15d21b27-94ca-42ec-ba05-e72a8b216672",
+  "name": "Attendance - OverallIntakeAttendance",
+  "auto": true,
+  "contexts": [
+    "Attendance-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Attendance.Attendance-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please go to https://apspace.apu.edu.my/attendance to see your overall attendance."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

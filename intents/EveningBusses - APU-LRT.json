@@ -1,0 +1,39 @@
+{
+  "id": "383eee1f-9161-4b04-911b-653a96fafb47",
+  "parentId": "26d0a8d1-94dd-4d94-8ede-7612420076b3",
+  "rootParentId": "26d0a8d1-94dd-4d94-8ede-7612420076b3",
+  "name": "EveningBusses - APU-LRT",
+  "auto": true,
+  "contexts": [
+    "EveningBusses-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EveningBusses.EveningBusses-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Evening busses from APU to LRT are available at: 12:05, 13:00, 14:40, 16:05, 17:00, 17:35, 18:15, 19:15"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

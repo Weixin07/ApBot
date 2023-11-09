@@ -1,0 +1,67 @@
+[
+  {
+    "id": "fe797201-d403-419b-ae6e-023ba7f96bbf",
+    "data": [
+      {
+        "text": "terminate subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb541a5d-b718-4f7f-bcfc-9168f3a96a7b",
+    "data": [
+      {
+        "text": "terminate season pass",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea262a09-69bd-4631-a1ab-460e1a9d1def",
+    "data": [
+      {
+        "text": "stop subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f020411-5c76-4008-b48b-a9b5d7796c5f",
+    "data": [
+      {
+        "text": "Want to stop subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14bff346-6f9c-46d9-8040-cc1636c5dd31",
+    "data": [
+      {
+        "text": "stop season pass",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

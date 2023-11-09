@@ -1,0 +1,28 @@
+[
+  {
+    "id": "0de737d9-dd41-4f76-a2e1-9370dcdc50b8",
+    "data": [
+      {
+        "text": "\"Not in list\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e351418b-f2ad-4007-9b24-dfe4f3b67d43",
+    "data": [
+      {
+        "text": "Not In List",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

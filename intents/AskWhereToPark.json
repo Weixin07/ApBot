@@ -1,0 +1,43 @@
+{
+  "id": "5924ec4d-9181-4069-a02a-2792770af717",
+  "name": "AskWhereToPark",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "AskWhereToPark-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can park you vehicle at Zone A parking or Zone B parking. Charges may apply.",
+            "Zone A and Zone B are available for students to park their vehicle. But then, charges may apply.",
+            "Great question! You can either park at Zone A or Zone B parking.",
+            "I see you are driving or riding to the campus :) You can park at Zone A or Zone B parking. But it\u0027s not free :d hehe"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

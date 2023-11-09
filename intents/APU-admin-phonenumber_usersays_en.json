@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ea8f99cd-28cb-40e2-9ae0-5eee3706c9e4",
+    "data": [
+      {
+        "text": "admin phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "681113be-0692-4405-9b18-a1f284d54e6f",
+    "data": [
+      {
+        "text": "admin contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c3347d0-85c0-4021-a08c-11c930c9044e",
+    "data": [
+      {
+        "text": "i want to contact ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " by phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57ab50ca-4af8-45de-91e3-51b42492535d",
+    "data": [
+      {
+        "text": "I want the ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9dfe221-f552-42a7-9a1e-92aaf329a0ea",
+    "data": [
+      {
+        "text": "direct me to the ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23c6b7cd-dbda-4386-bb8c-f2108f1f84b7",
+    "data": [
+      {
+        "text": "direct me to contact the ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "429e3cb2-9e50-455e-9933-42f963717fcd",
+    "data": [
+      {
+        "text": "to the ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c263e55-3609-40fa-82a0-ba91a3d4ecf3",
+    "data": [
+      {
+        "text": "let me contact the ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6958c78-1b34-40bf-97e8-76140cb679b2",
+    "data": [
+      {
+        "text": "let me contact the ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e27d3297-dcbe-4d91-9bb4-6154e81f676c",
+    "data": [
+      {
+        "text": "let me contact the ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " through the phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8c758cf-9e21-4ab1-96bd-51a9ab63a65a",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "admin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

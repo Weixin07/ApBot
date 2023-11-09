@@ -1,0 +1,39 @@
+{
+  "id": "51e4338c-1911-4ad1-9fc2-98453c10e6a1",
+  "parentId": "62aeb6ff-1054-4856-9005-02b1475992d2",
+  "rootParentId": "2af95d04-f797-492d-af64-e844506c2184",
+  "name": "APUShuttleBus - yes - Endah-APU",
+  "auto": true,
+  "contexts": [
+    "APUShuttleBus-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "APUShuttleBus.APUShuttleBus-yes.APUShuttleBus-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The available shuttle bus will be on: 8:00, 8:50, 9:50, 10:40, 11:40, 12:25, 13:25, 15:15, 16:30, 17:35"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

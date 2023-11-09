@@ -1,0 +1,314 @@
+[
+  {
+    "id": "787aee3a-3a83-4a34-b2f0-34e1d11d5f4b",
+    "data": [
+      {
+        "text": "library contacts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d906e69-78e5-4f36-97e8-d8d433f5d9b8",
+    "data": [
+      {
+        "text": "library contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2ef785a-5177-465e-b3fd-6bd42e278714",
+    "data": [
+      {
+        "text": "library email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5407c642-76b5-4825-9484-bebbe2b427c8",
+    "data": [
+      {
+        "text": "library mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0f9bbab-f848-4e4d-8318-d8a27cafc5dd",
+    "data": [
+      {
+        "text": "library contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84284a61-5431-49ac-83c8-73f388e25eac",
+    "data": [
+      {
+        "text": "library contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a4795f7-faae-4781-ac9f-e2f99de4d00e",
+    "data": [
+      {
+        "text": "I want to email the library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2841c91a-5cad-4511-be76-1dae879d8174",
+    "data": [
+      {
+        "text": "I want to contact the library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24a40b88-cab8-4738-ac61-15d2526363e3",
+    "data": [
+      {
+        "text": "library inquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bac3781a-9b7a-4180-841b-0f9e041954c2",
+    "data": [
+      {
+        "text": "library inquiries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e2c1e4b-00be-49f0-a02c-f526fb6bd16c",
+    "data": [
+      {
+        "text": "library enquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "910110af-5ea1-4658-9343-9106eb506930",
+    "data": [
+      {
+        "text": "library enquiries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "465d8914-cde9-4702-a215-e0d74c49b89e",
+    "data": [
+      {
+        "text": "i want to contact library by email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd38fb4c-0d6c-4867-8b35-5c0469a04d8a",
+    "data": [
+      {
+        "text": "i want the library\u0027s email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "041f527d-86aa-4824-9afe-9734a284d2d1",
+    "data": [
+      {
+        "text": "I want the library\u0027s contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e8636d3-d200-49f8-b180-2b6f13e4e5a3",
+    "data": [
+      {
+        "text": "I want the library\u0027s contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59a2a869-afe3-4d0d-a184-508e6871aa17",
+    "data": [
+      {
+        "text": "direct me to library contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8b1fb99-ca0d-4279-b5db-48ca0e24bdac",
+    "data": [
+      {
+        "text": "direct me to library contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7a5b08c-8a51-46c5-ba44-a22baa281646",
+    "data": [
+      {
+        "text": "direct me to the library email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a52a583c-f905-4a45-945c-86441750b7f2",
+    "data": [
+      {
+        "text": "direct me to contact the library",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b9fdf9e-44d5-4aef-b939-1f713ad8c76e",
+    "data": [
+      {
+        "text": "to the library contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23034d88-2b41-4794-9feb-2dae52bcaedc",
+    "data": [
+      {
+        "text": "let me contact the library email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f52ccae-5dcb-4ceb-8cb5-bc95446436c0",
+    "data": [
+      {
+        "text": "let me contact the library through email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3673f11e-e945-4a4c-9fb1-0d307975443b",
+    "data": [
+      {
+        "text": "give me the library\u0027s email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

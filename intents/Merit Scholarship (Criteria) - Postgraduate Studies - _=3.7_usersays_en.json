@@ -1,0 +1,61 @@
+[
+  {
+    "id": "a1aeccde-4f69-40a2-8e54-91cf98dd15e1",
+    "data": [
+      {
+        "text": "\"3.7 \u0026 Above\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d074d97-e515-4b11-b092-8ca500909695",
+    "data": [
+      {
+        "text": "3.7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " \u0026 Above",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1feb480a-c15e-4915-91ea-a4b4021a3711",
+    "data": [
+      {
+        "text": "4.0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f5b93be-4924-4ca7-b66b-a9df3d7508d3",
+    "data": [
+      {
+        "text": "3.7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

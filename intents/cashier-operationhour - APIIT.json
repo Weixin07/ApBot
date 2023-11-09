@@ -1,0 +1,39 @@
+{
+  "id": "0594905e-2a71-49b6-95ef-e8df5f434f80",
+  "parentId": "9fedbf02-6165-4229-85ac-36ce2a3c114b",
+  "rootParentId": "9fedbf02-6165-4229-85ac-36ce2a3c114b",
+  "name": "cashier-operationhour - APIIT",
+  "auto": true,
+  "contexts": [
+    "cashier-operationhour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cashier-operationhour.cashier-operationhour-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday-Friday (10:00 AM To 1:00 PM)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

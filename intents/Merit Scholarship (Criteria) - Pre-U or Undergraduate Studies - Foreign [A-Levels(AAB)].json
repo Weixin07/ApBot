@@ -1,0 +1,42 @@
+{
+  "id": "eb525d58-fd67-4644-9ed5-d440b50b7fcd",
+  "name": "Merit Scholarship (Criteria) - Pre-U or Undergraduate Studies - Foreign [A-Levels(AAB)]",
+  "auto": true,
+  "contexts": [
+    "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsA-Levels-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MeritScholarshipCriteria-Pre-UorUndergraduateStudies-ForeignStudentsA-Levels-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027ll get a 20% discount on tuition fee. \nAll applicants must maintain the CGPA of 3.0 in order to enjoy the Fee Awards in the subsequent years (where relevant). Failure to meet such academic requirement will result in the award terminated/ suspended."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

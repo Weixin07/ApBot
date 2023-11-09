@@ -1,0 +1,59 @@
+[
+  {
+    "id": "832a9cb4-2f02-4f62-bac4-193ab4b0f7a9",
+    "data": [
+      {
+        "text": "printshop@APU ",
+        "userDefined": false
+      },
+      {
+        "text": "operation hour",
+        "meta": "@operationhour",
+        "alias": "operationhour",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9da48d93-8e15-4350-a188-02df003db188",
+    "data": [
+      {
+        "text": "printshop @APU ",
+        "userDefined": false
+      },
+      {
+        "text": "operation hour",
+        "meta": "@operationhour",
+        "alias": "operationhour",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f142bff-642a-4db7-a07d-84ed3eb7e1bc",
+    "data": [
+      {
+        "text": "printshop ",
+        "userDefined": false
+      },
+      {
+        "text": "operation hour",
+        "meta": "@operationhour",
+        "alias": "operationhour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

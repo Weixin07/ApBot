@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d2422ddb-750a-4e1f-bc28-5fc1d0d4258d",
+    "data": [
+      {
+        "text": "Moodle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0c9baf9-e77f-4ce0-b156-ed1dc4d14364",
+    "data": [
+      {
+        "text": "What is moodle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

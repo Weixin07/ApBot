@@ -1,0 +1,33 @@
+[
+  {
+    "id": "4d821096-ae93-4bb0-9862-546953bfa6cd",
+    "data": [
+      {
+        "text": "Academic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "711a8f25-970a-4d7a-a8d4-b0efadfa20f2",
+    "data": [
+      {
+        "text": "Academic ",
+        "userDefined": false
+      },
+      {
+        "text": "operation",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

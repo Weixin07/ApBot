@@ -1,0 +1,314 @@
+[
+  {
+    "id": "7081f38c-65a2-428a-8037-8e00735d9033",
+    "data": [
+      {
+        "text": "cashier contacts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7a37d34-97e2-4cef-a3c6-8a277cf18025",
+    "data": [
+      {
+        "text": "cashier contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68e929cd-ae62-4945-9c2c-d36f70e1acd7",
+    "data": [
+      {
+        "text": "cashier email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b538055-f7da-4573-9133-be637535b9dd",
+    "data": [
+      {
+        "text": "cashier mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fab7f78f-10c5-4fbc-8c69-2e03bb52d67e",
+    "data": [
+      {
+        "text": "cashier contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bc25971-ad23-4b58-bcaa-eb03df2392fc",
+    "data": [
+      {
+        "text": "cashier contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e60faa33-fb36-4b03-a8bb-0ba6dc28bf7f",
+    "data": [
+      {
+        "text": "I want to email the cashier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac7aa275-bd3d-449c-a5dc-45be22150e5d",
+    "data": [
+      {
+        "text": "I want to contact the cashier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "233c4ea2-ec0b-48f0-ba72-1117766ef6c8",
+    "data": [
+      {
+        "text": "cashier inquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0b0cdac-d84d-4bf7-8b76-a70a17c3ed34",
+    "data": [
+      {
+        "text": "cashier inquiries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1c6b7e6-52c0-41a2-ba94-333d80dad418",
+    "data": [
+      {
+        "text": "cashier enquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7067eee5-b972-4e69-a54a-71e04c03560e",
+    "data": [
+      {
+        "text": "cashier enquiries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5172c87c-2059-4ebc-bb8a-f26cdfa31ad3",
+    "data": [
+      {
+        "text": "i want to contact the cashier by email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7889a8d2-1718-48d4-a3bc-3889ed6a5c3f",
+    "data": [
+      {
+        "text": "i want the cashier\u0027s email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd065a39-3750-4a98-ae64-c5ce8395caaa",
+    "data": [
+      {
+        "text": "I want the cashier\u0027s contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef65ed27-d116-45c9-a96e-354a6de4a31f",
+    "data": [
+      {
+        "text": "I want the cashier\u0027s contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4eb496c5-3a42-4cdc-a7f2-3683f429e3d9",
+    "data": [
+      {
+        "text": "direct me to the cashier contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efcd7c48-3d12-4abd-8e93-3ef112ad8725",
+    "data": [
+      {
+        "text": "direct me to the cashier contact mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60098698-6b33-4acb-89ce-b25c7de36787",
+    "data": [
+      {
+        "text": "direct me to the cashier email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f0647ff-9a34-485c-9896-86b2829f230a",
+    "data": [
+      {
+        "text": "direct me to contact the cashier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79ee0006-579c-4b28-9439-de3b7d5a131c",
+    "data": [
+      {
+        "text": "to the cashier contact email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0b00799-7bd8-4bfd-b8a9-dc6dc27a09a2",
+    "data": [
+      {
+        "text": "let me contact the cashier email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b22a8061-b12e-43f8-b35e-c44bab9393e7",
+    "data": [
+      {
+        "text": "let me contact the cashier through email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "028f7114-d6a4-44ca-9af8-33ba39355b16",
+    "data": [
+      {
+        "text": "give me the cashier\u0027s email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

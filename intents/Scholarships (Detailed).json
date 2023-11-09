@@ -1,0 +1,35 @@
+{
+  "id": "77461483-f1c9-4214-adb8-92e723d0b253",
+  "name": "Scholarships (Detailed)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ScholarshipsandLoans.ScholarshipsandLoans-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, there are a few that is approved and accepted by APU.  One of them is organized and funded by APU. It is called Merit Scholarship. There is also the Yayasan Bank Rakyat, KUOK Foundation and more. Read more at http://www.apu.edu.my/study-apu/financing-your-study/scholarship"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
